@@ -1,3 +1,7 @@
+#Funcion para saludar 
+function saludar(nombre)
+    return "!Hola, $nombre , bienvenido a Ciencia de Datos :D!"
+end
 
 #Funcion para sumar dos numeros
 function sumar(a,b)
